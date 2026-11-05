@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: realtiy
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
